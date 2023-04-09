@@ -6,4 +6,4 @@ This repository contains code for implementing item demand forecasting using Neu
 
 To use this repository, first clone the repository to your local machine using the command:
 
-git clone https://github.com/yourusername/neuralprophet-item-demand.git
+git clone https://github.com/AqeelSyedShamsi/Item-Demand-Forecasting---NueralProphet.git
